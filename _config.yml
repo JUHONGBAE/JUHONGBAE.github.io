@@ -17,7 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "BAE blog!"
+tab_tittle               : "BAE blog!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juhong BAE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "모두의연구소 기획 <br/> 영남대학교 기계설계전공 <br/>"
+  location         : "South Korea"
+  email            : "baejoohong93@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
